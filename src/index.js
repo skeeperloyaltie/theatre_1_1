@@ -12,7 +12,6 @@ export default function App() {
         <index />
       </Route>
       </Switch>
-
   )
 }
 
